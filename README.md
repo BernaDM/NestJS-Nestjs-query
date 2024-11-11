@@ -58,3 +58,8 @@ $ yarn start:dev
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 
+<a href="https://github.com/evighi"><img src="https://github.com/evighi.png" width="45" height="45"></a> &nbsp;
+
+<a href="https://github.com/Gustavonunes08"><img src="https://github.com/Gustavonunes08.png" width="45" height="45"></a> &nbsp;
+
+<a href="https://github.com/XaviIgor"><img src="https://github.com/XaviIgor.png" width="45" height="45"></a> &nbsp;

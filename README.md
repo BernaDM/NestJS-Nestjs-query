@@ -64,4 +64,4 @@ $ yarn start:dev
 
 <a href="https://github.com/XaviIgor"><img src="https://github.com/XaviIgor.png" width="45" height="45"></a> 
 
-<a href="https://github.com/BernaDM"><img src="https://github.com/BernaDM" width="45" height="45"></a> 
+<a href="https://github.com/BernaDM"><img src="https://github.com/BernaDM.png" width="45" height="45"></a> 
